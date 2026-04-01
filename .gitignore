@@ -1,0 +1,31 @@
+# Dataset (too large for version control)
+LSWMD.pkl
+*.pkl
+
+# Python virtual environment
+venv/
+env/
+.env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PyTorch model checkpoints
+*.pt
+*.pth
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
