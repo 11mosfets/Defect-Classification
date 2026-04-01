@@ -8,6 +8,9 @@ env/
 .env/
 .venv/
 
+# All subdirectories (experiments, outputs, etc.)
+/*/
+
 # Python cache
 __pycache__/
 *.py[cod]
